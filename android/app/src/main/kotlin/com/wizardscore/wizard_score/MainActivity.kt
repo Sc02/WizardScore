@@ -1,0 +1,5 @@
+package com.wizardscore.wizard_score
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity : FlutterActivity()
