@@ -16,7 +16,8 @@ Scoring tables and house rules also live in: wizard_rules/rules.pdf
 
 ## Install
 
-Download `app-release.apk` from the project's GitHub **Releases** page and open it
+Download `app-release.apk` from the
+[Releases page](https://github.com/Sc02/WizardScore/releases/latest) and open it
 on your phone. Android will ask you to allow installs from unknown sources — that's
 expected for a sideloaded app.
 
